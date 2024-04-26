@@ -1,0 +1,23 @@
+{
+  "name": "interview_counter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.1.1",
+    "eslint": "^8.57.0",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.7.1",
+    "vite": "^5.0.8",
+    "vitest": "^1.2.1"
+  },
+  "dependencies": {
+    "typescript-formatter": "^7.2.2"
+  }
+}
